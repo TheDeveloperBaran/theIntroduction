@@ -87,6 +87,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/TheDeveloperBaran/TheDeveloperBaran/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -98,6 +100,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDeveloperBaran/TheDeveloperBaran/output/pacman-contribution-graph-dark.svg">
